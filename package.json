@@ -46,7 +46,7 @@
     "rollup-plugin-terser": "^7.0.2",
     "serve": "^11.3.2",
     "typescript": "^4.4.4",
-    "wasm-feature-detect": "^1.2.11"
+    "wasm-feature-detect": "^1.2.11",
     "which": "^2.0.2"
   },
   "lint-staged": {
